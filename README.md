@@ -1,4 +1,4 @@
-## Techno Scapes Day 3 & 4
+## Techno Scapes Day 3
 ## Create Rest API using Express JS
 ### References:
 - https://github.com/adhywiranata/technoscape-rest-express-day-1/tree/sesi-1-part-1
